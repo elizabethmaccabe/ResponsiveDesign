@@ -18,5 +18,5 @@ This is a new line
 
 ```
 
-![Penguins](Penugins.jpg)
+![Penguins](Penguins.jpg)
 <sub> >> Figure 1 </sub>
