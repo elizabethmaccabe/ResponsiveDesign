@@ -17,3 +17,6 @@ This is a new line
 <h1> This is a html code block </h1>
 
 ```
+
+![Penguins](Penugins.jpg)
+<sub> >> Figure 1 </sub>
