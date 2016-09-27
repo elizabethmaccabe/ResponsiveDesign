@@ -19,4 +19,4 @@ This is a new line
 ```
 
 ![Penguins](Penguins.jpg)
-<sub> >>Figure 1 </sub>
+<sub> Figure 1 </sub>
